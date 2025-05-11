@@ -11,5 +11,5 @@ The task:
 # How to Run
 1. Make sure you have Python installed.
 2. Install `requests` module if not already installed:
-3. Run this code : pip install requests
-4. Run the script : python main.py 
+3. Run this code to install requests : pip install requests
+4. Run the script : main.py 
